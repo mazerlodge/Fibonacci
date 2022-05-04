@@ -1,0 +1,10 @@
+POA - Array Fibo 
+
+Goal - Do the Fibonacci sequence using an array. 
+
+Steps 
+	loop 0 to n 
+		set current index += 1
+		if current num is less than or equal to 1, just put it in the array 
+		else add the array cells at current index and index-1, add result to the array 
+		
